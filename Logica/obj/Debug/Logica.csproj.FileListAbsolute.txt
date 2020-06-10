@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Gimnasio\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Gimnasio\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Gimnasio\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\source\repos\Gimnasio\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\source\repos\Gimnasio\Logica\bin\Debug\Datos.dll
+C:\Users\Usuario\source\repos\Gimnasio\Logica\bin\Debug\Entidades.dll
+C:\Users\Usuario\source\repos\Gimnasio\Logica\bin\Debug\Datos.pdb
+C:\Users\Usuario\source\repos\Gimnasio\Logica\bin\Debug\Entidades.pdb
+C:\Users\Usuario\source\repos\Gimnasio\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Gimnasio\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\source\repos\Gimnasio\Logica\obj\Debug\Logica.pdb
