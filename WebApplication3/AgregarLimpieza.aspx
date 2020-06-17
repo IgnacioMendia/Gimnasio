@@ -11,7 +11,7 @@
                 <asp:Label ID="lblApellido" runat="server" Text="Apellido :" ForeColor="#FF3300"></asp:Label>
             </td>
             <td style="width: 280px; height: 39px;">
-                <asp:TextBox ID="txtApellido" runat="server" Width="254px"></asp:TextBox>
+                <asp:TextBox ID="txtApellido" runat="server" Width="254px" CssClass="form-control"></asp:TextBox>
             </td>
             <td style="height: 39px">
                 </td>
@@ -21,7 +21,7 @@
                 <asp:Label ID="lblNombre" runat="server" Text="Nombre :" ForeColor="#FF3300"></asp:Label>
             </td>
             <td style="height: 6px; width: 280px">
-                <asp:TextBox ID="txtNombre" runat="server" Width="254px"></asp:TextBox>
+                <asp:TextBox ID="txtNombre" runat="server" Width="254px" CssClass="form-control"></asp:TextBox>
             </td>
             <td style="height: 6px">
                 &nbsp;</td>

@@ -11,12 +11,11 @@
             </td>
             <td style="width: 208px">
                 <asp:Label ID="lblNombre" runat="server" Text="Actividad:" ForeColor="#FF3300"></asp:Label>
-                <asp:TextBox ID="txtActividad" runat="server" style="margin-left: 4px; margin-right: 0" Enabled="False"></asp:TextBox>
-                <br />
+                <asp:TextBox ID="txtActividad" runat="server" style="margin-left: 0px; margin-right: 0" Enabled="False" CssClass="form-control" Height="23px"></asp:TextBox>
                 <br />
                 <asp:Label ID="lblPrecio" runat="server" Text="Precio:" ForeColor="#FF3300"></asp:Label>
                 &nbsp;&nbsp;&nbsp;&nbsp;
-                <asp:TextBox ID="txtPrecio" runat="server" style="margin-left: 0px;" Enabled="False"></asp:TextBox>
+                <asp:TextBox ID="txtPrecio" runat="server" style="margin-left: 0px;" Enabled="False" CssClass="form-control" Height="23px"></asp:TextBox>
                 &nbsp;<br />
                 <br />
                 <asp:Label ID="lblId" runat="server" ForeColor="White"></asp:Label>

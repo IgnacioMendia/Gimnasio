@@ -11,21 +11,19 @@
             </td>
             <td class="modal-sm" style="width: 395px">
                 <asp:Label ID="lblNombre" runat="server" Text="Nombre:" ForeColor="#FF3300"></asp:Label>
-                <asp:TextBox ID="txtNombre" runat="server" Height="23px" style="margin-left: 44px" Width="157px" Enabled="False"></asp:TextBox>
-                <br />
+                <asp:TextBox ID="txtNombre" runat="server" Height="23px" style="margin-left: 0px" Width="157px" CssClass="form-control" Enabled="False"></asp:TextBox>
                 <br />
                 <asp:Label ID="lblApellido" runat="server" Text="Apellido:" ForeColor="#FF3300"></asp:Label>
-                <asp:TextBox ID="txtApellido" runat="server" Height="23px" style="margin-left: 43px" Width="161px" Enabled="False"></asp:TextBox>
-                <br />
+                <asp:TextBox ID="txtApellido" runat="server" Height="23px" style="margin-left: 0px" Width="161px" CssClass="form-control" Enabled="False"></asp:TextBox>
                 <br />
                 <asp:Label ID="lblFechaIngreso" runat="server" Text="Fecha ingreso:" ForeColor="#FF3300"></asp:Label>
-                <asp:TextBox ID="txtFechaIngreso" runat="server" Height="22px" Width="162px" Enabled="False"></asp:TextBox>
+                <asp:TextBox ID="txtFechaIngreso" runat="server" Height="22px" Width="162px" Enabled="False" CssClass="form-control"></asp:TextBox>
                
                 
                 <br />
-                <br />
                 <asp:Label ID="lblActividad" runat="server" Text="Actividad:" ForeColor="#FF3300"></asp:Label>
-                <asp:DropDownList ID="ddlActividad" runat="server" Height="23px" style="margin-left: 34px; margin-top: 0" Width="170px" Enabled="False">
+                <br />
+                <asp:DropDownList ID="ddlActividad" runat="server" Height="23px" style="margin-left: 0px; margin-top: 0" Width="170px" Enabled="False">
                 </asp:DropDownList>
             </td>
         </tr>
